@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PullRefresh</string>
+    <string name="simple_refresh_pull_down_text">下拉进行刷新</string>
+    <string name="simple_refresh_pull_right_text">右拉进行刷新</string>
+    <string name="simple_refresh_release_text">松开立即刷新</string>
+    <string name="simple_refresh_text">正在刷新...</string>
+</resources>
